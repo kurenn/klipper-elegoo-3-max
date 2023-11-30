@@ -1,0 +1,9 @@
+Starting Klippy...
+Args: ['/home/kuri/klipper/klippy/klippy.py', '/home/kuri/printer_data/config/printer.cfg', '-l', '/home/kuri/printer_data/logs/klippy.log', '-I', '/home/kuri/printer_data/comms/klippy.serial', '-a', '/home/kuri/printer_data/comms/klippy.sock']
+Git version: 'v0.11.0-205-g5f0d252b'
+Branch: master
+Remote: origin
+Tracked URL: https://github.com/Klipper3d/klipper.git
+CPU: 4 core ?
+Python: '3.9.2 (default, Mar 12 2021, 04:06:34) \n[GCC 10.2.1 20210110]'
+Building C code module c_helper.so
